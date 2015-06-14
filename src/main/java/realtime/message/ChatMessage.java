@@ -1,7 +1,5 @@
 package realtime.message;
 
-import java.util.Date;
-
 /**
  * @author huseyinbabal
  */
